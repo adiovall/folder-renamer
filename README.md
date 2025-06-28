@@ -1,2 +1,2 @@
 # folder-renamer
-helps you rename your multiple folders and file with one click
+Helps you rename your multiple folders and files with one click
