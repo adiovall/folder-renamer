@@ -3,14 +3,16 @@ Helps you rename your multiple folders and files with one click
 
 A modern and easy-to-use Windows desktop app to batch rename folders — with a stylish splash screen, dark/light mode, and emoji-powered UI toggle.
 
-![screenshot](![folder_renamer](https://github.com/user-attachments/assets/0cd6afee-46c0-4990-9b7b-f46f6200ca1a)
+![screenshot]![folder_renamer](https://github.com/user-attachments/assets/6f857e80-8838-4669-a85b-563b970ce06d)
+()
 ) 
 
 ---
 
 ## ⚙️ Features
 
-- ✅ Rename folders with ease
+- ✅ Rename folders or files with ease
+- ✔️ filter by .png or .mp4 or anything of your choice 
 - 🎨 Dark & Light Mode toggle (remembers your last choice)
 - 🌀 Animated splash screen with progress arc
 - 📁 Emoji-based interface elements
